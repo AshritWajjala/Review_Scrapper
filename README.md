@@ -1,6 +1,6 @@
-# Social Media Application for Computer Scientists
+# Social Media Application 
 
-This project is a social media application specifically designed for computer scientists. Users can create profiles, share posts, follow each other, and interact with posts through likes and comments.
+This project is a social media application. Users can create profiles, share posts, follow each other, and interact with posts through likes and comments.
 
 ## Project Features
 
