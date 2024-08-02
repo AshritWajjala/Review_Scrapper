@@ -62,3 +62,20 @@ This project is a social media application specifically designed for computer sc
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+
+2. **Create a virtual environment**
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+3. **Install the dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Initialize the database:**
+   ```bash
+   python create_db.py
+
+5. **Run the Flask Application**
+   ```bash
+   python app.py
