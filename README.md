@@ -54,6 +54,7 @@ This project is a social media application. Users can create profiles, share pos
   - `thank_you.html`
 - `static/`
   - `css/`
+     - `styles.css` 
   - `uploads/`
 
 ## Installation and Setup
